@@ -1,5 +1,5 @@
 
-**Methodologies - we are using at FBT**
+**Methodologies - we are using at ITware**
 1. Agile (SCRUM, Kanban)
 1. Waterfall
 1. LEAN
