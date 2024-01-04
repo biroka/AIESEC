@@ -1,7 +1,8 @@
 repo_name: biroka/AIESEC
 report_id: 1ea147a011f3bcb14741fb26c54fd4d3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:28:38+00:00'
+timestamp: '2024-01-04T14:58:34+00:00'
 requested_by: biroka
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/biroka/AIESEC
   detection_source: Repo Metadata
